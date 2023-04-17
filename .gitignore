@@ -1,1 +1,6 @@
+.gitignore
 bin/scraper
+tor
+tor_href
+tor_random
+.vscode/settings.json
